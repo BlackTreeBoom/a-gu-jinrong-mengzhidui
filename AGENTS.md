@@ -7,37 +7,37 @@
 
 ## Skills
 
-### `xueqiu-wunianguoyi`
+### 雪球-五年过亿
 
 使用场景：需要偏市场风格、政策窗口、主线判断、能力圈聚焦与耐心持股的中文投资框架时。
 
 位置：`skills/xueqiu-wunianguoyi/SKILL.md`
 
-### `bilibili-graham-laolin`
+### B站-格雷厄姆老林
 
 使用场景：需要偏格雷厄姆式价值投资、财报阅读、会计视角、安全边际与投资/投机区分时。
 
 位置：`skills/bilibili-graham-laolin/SKILL.md`
 
-### `xueqiu-dayinwuyan`
+### 雪球-大隐无言
 
 使用场景：需要偏创新药、管线估值、PS 框架、BD 催化与长期成长预期分析时。
 
 位置：`skills/xueqiu-dayinwuyan/SKILL.md`
 
-### `xueqiu-jinrongjie-xingcang`
+### 雪球-金融街行藏
 
 使用场景：需要偏事件驱动、政策文本拆解、赔率与确定性比较、行业深度跟踪时。
 
 位置：`skills/xueqiu-jinrongjie-xingcang/SKILL.md`
 
-### `xueqiu-metalslime`
+### 雪球-metalslime
 
 使用场景：需要偏交易节奏、宏观叙事切换、强主线识别、市场情绪与风格轮动观察时。
 
 位置：`skills/xueqiu-metalslime/SKILL.md`
 
-### `charlie-munger`
+### 查理·芒格
 
 使用场景：需要多元思维模型、反向思考、能力圈、清单式风控与长期主义时。
 
